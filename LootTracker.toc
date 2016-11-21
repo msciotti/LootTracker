@@ -1,0 +1,6 @@
+## Interface: 70100
+## Title: LootTracker
+## Author: Weh
+## Version: 0.01
+
+LootTracker.lua
